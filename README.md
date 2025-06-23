@@ -19,6 +19,6 @@ This Flutter project is a fast-paced two-player finger tap game. Players A and B
 
 ![Screenshot (313)](https://github.com/user-attachments/assets/d510cd40-a16d-46a8-ae40-ee4162de22b9)
 
-"C:\Users\SEC\OneDrive\Pictures\Screenshots\Screenshot (314).png"
+![Screenshot (314)](https://github.com/user-attachments/assets/a58b793c-a7d6-4425-8a02-3524afad29ca)
 
 ![Screenshot (315)](https://github.com/user-attachments/assets/ccbdb6f5-3e86-4526-a614-0647d2d2a4d7)
